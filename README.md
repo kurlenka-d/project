@@ -43,6 +43,6 @@ Version selection in Argo CD
 
 ## Links:
 
-Project repository: https://github.com/
+Project repository: https://github.com/kurlenka-d/project_sa.it-academy.by.git
 
 ![A4 - 2](https://user-images)
