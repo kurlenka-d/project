@@ -45,4 +45,6 @@ Version selection in Argo CD
 
 Project repository: https://github.com/kurlenka-d/project_sa.it-academy.by.git
 
-![A4 - 2](https://user-images)
+
+![project_draw](project_image.png)
+

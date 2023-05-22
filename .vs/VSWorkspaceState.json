@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\chart",
+    "\\chart\\wordpress",
+    "\\chart\\wordpress\\templates",
+    "\\Docker",
+    "\\Docker\\extra-themes"
   ],
+  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }
