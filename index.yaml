@@ -2,43 +2,53 @@ apiVersion: v1
 entries:
   wordpress:
   - apiVersion: v2
+    appVersion: 0.0.15
+    created: "2023-05-23T12:09:07.968797033Z"
+    description: A Helm chart for Kubernetes
+    digest: a3271f76f0637d0813d5287d89277128b46aa111dd2a601bc1232033959ea114
+    name: wordpress
+    type: application
+    urls:
+    - https://github.com/kurlenka-d/project-sa.it-academy.by.git/chart/wordpress-0.0.15.tgz
+    version: 0.0.15
+  - apiVersion: v2
     appVersion: 0.0.14
-    created: "2023-05-23T07:25:58.014736668Z"
+    created: "2023-05-23T12:09:07.960805893Z"
     description: A Helm chart for Kubernetes
     digest: 12f552ea1772b4db6a9d2a27c08dc7dadfa1a56b0f5f8316be01778817fa8b08
     name: wordpress
     type: application
     urls:
-    - https://github.com/kurlenka-d/project_sa.it-academy.by.git/chart/wordpress-0.0.14.tgz
+    - https://github.com/kurlenka-d/project-sa.it-academy.by.git/chart/wordpress-0.0.14.tgz
     version: 0.0.14
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2023-05-23T07:25:58.01441666Z"
+    created: "2023-05-23T12:09:07.960476779Z"
     description: A Helm chart for Kubernetes
     digest: 696e168d1d57a7f1da9063df897e2af2aad83b672e49cd731591867fb3fe7d34
     name: wordpress
     type: application
     urls:
-    - https://github.com/kurlenka-d/project_sa.it-academy.by.git/chart/wordpress-0.0.13.tgz
+    - https://github.com/kurlenka-d/project-sa.it-academy.by.git/chart/wordpress-0.0.13.tgz
     version: 0.0.13
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2023-05-23T07:25:58.01402705Z"
+    created: "2023-05-23T12:09:07.960136164Z"
     description: A Helm chart for Kubernetes
     digest: b8b6ba58b4d196ae75461ff89f7e4ce1065778eca4acc8d1b69d018c10bf5dbd
     name: wordpress
     type: application
     urls:
-    - https://github.com/kurlenka-d/project_sa.it-academy.by.git/chart/wordpress-0.0.12.tgz
+    - https://github.com/kurlenka-d/project-sa.it-academy.by.git/chart/wordpress-0.0.12.tgz
     version: 0.0.12
   - apiVersion: v2
     appVersion: 0.0.10
-    created: "2023-05-23T07:25:58.01362684Z"
+    created: "2023-05-23T12:09:07.959773549Z"
     description: A Helm chart for Kubernetes
     digest: c1e6858d27af1420d40b4b72b3abe1ac4b013a865b4f76ae09540673cb8eed4e
     name: wordpress
     type: application
     urls:
-    - https://github.com/kurlenka-d/project_sa.it-academy.by.git/chart/wordpress-0.0.10.tgz
+    - https://github.com/kurlenka-d/project-sa.it-academy.by.git/chart/wordpress-0.0.10.tgz
     version: 0.0.10
-generated: "2023-05-23T07:25:58.013122827Z"
+generated: "2023-05-23T12:09:07.959212825Z"
