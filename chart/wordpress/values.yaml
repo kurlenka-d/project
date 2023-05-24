@@ -1,7 +1,7 @@
 image:
-  repository: "carex/wordpress-prod"
+  repository: "library/wordpress"
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "6"
 
 service:
   type: ClusterIP
