@@ -6,7 +6,7 @@
 
 ## Description of application for deployment:
 
-- Application: WordPress
+- Application: WordPress 6.2/2
 
 - Programming language: PHP
 
